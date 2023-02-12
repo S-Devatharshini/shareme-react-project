@@ -1,4 +1,3 @@
-# shareme-react-project
 
 ## Prerequisites
 + Sign up for a Sanity account

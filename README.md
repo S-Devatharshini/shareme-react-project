@@ -56,7 +56,7 @@ To get the client id:
 ##### Note: Add the client id in the .env file of your project     
 
 ## Website Link
-[click here to view the website](https://devs-shareme-jsm.netlify.app)
+[click here to view the website](https://devs-shareme-jsm.netlify.app/login)
 
 ## Demo link
 [click here to view the demo](https://drive.google.com/file/d/1PsgwwjXloFOMI4ra0EGHqK_9VHP0WFCu/view?usp=sharing)
